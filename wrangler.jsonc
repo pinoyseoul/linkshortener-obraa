@@ -1,0 +1,46 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "linkshortener-obraa",
+  "main": ".output/server/index.mjs",
+  "compatibility_date": "2025-05-08",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  "keep_vars": true,
+  "upload_source_maps": true,
+  "observability": {
+    "logs": {
+      "enabled": true
+    },
+    "traces": {
+      "enabled": true
+    }
+  },
+  "ai": {
+    "binding": "AI",
+    "remote": true
+  },
+  "analytics_engine_datasets": [
+    {
+      "binding": "ANALYTICS",
+      "dataset": "obraa"
+    }
+  ],
+  "kv_namespaces": [
+    {
+      "binding": "KV",
+      "preview_id": "TBD",
+      "id": "TBD"
+    }
+  ],
+  "r2_buckets": [
+    {
+      "binding": "R2",
+      "preview_bucket_name": "obraa",
+      "bucket_name": "obraa"
+    }
+  ],
+  "triggers": {
+    "crons": ["0 0 * * *"]
+  }
+}
