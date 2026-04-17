@@ -31,7 +31,7 @@ useHead({
   link: [
     {
       rel: 'canonical',
-      href: computed(() => `https://a.pinoyseoul.com${route.path}`),
+      href: computed(() => `https://a.obraa.org${route.path}`),
     },
     {
       rel: 'icon',

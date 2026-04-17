@@ -15,6 +15,6 @@ defineRouteMeta({
 export default eventHandler(() => {
   return {
     name: 'a',
-    url: 'https://a.pinoyseoul.com',
+    url: 'https://a.obraa.org',
   }
 })

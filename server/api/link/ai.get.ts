@@ -50,10 +50,10 @@ export default eventHandler(async (event) => {
     { role: 'user', content: 'https://github.com/nuxt/' },
     { role: 'assistant', content: '{"slug": "nuxt"}' },
 
-    { role: 'user', content: 'https://a.pinoyseoul.com/' },
-    { role: 'assistant', content: '{"slug": "pinoyseoul"}' },
+    { role: 'user', content: 'https://a.obraa.com/' },
+    { role: 'assistant', content: '{"slug": "obraa"}' },
 
-    { role: 'user', content: 'https://github.com/pinoyseoul/linkshortener' },
+    { role: 'user', content: 'https://github.com/obraa/linkshortener' },
     { role: 'assistant', content: '{"slug": "linkshortener"}' },
 
     { role: 'user', content: userContent },
@@ -63,7 +63,7 @@ export default eventHandler(async (event) => {
 
   let content = response.response ?? response.choices?.[0]?.message?.content ?? ''
   // Strip markdown code block wrapper (e.g. ```json\n{...}\n```)
-  const codeBlockMatch = content.match(/```\w*\n([^`]+)```/)
+  // eslint-disable-next-line e18e/prefer-static-regex`n  const codeBlockMatch = content.match(/```\w*\n([^`]+)```/)
   if (codeBlockMatch?.[1]) {
     content = codeBlockMatch[1].trim()
   }

@@ -143,7 +143,7 @@ const { title, twitter, facebook } = useAppConfig()
             <small class="block text-center text-sm text-muted-foreground">
               &copy; {{ new Date().getFullYear() }}
               <a
-                href="https://www.pinoyseoul.com"
+                href="https://www.obraa.org"
                 target="_blank"
                 title="PinoySeoul"
                 class="hover:text-primary"
