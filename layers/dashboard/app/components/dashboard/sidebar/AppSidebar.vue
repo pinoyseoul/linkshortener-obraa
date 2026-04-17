@@ -54,7 +54,7 @@ const settingsItems = computed<NavItem[]>(() => [
                 "
               >
                 <img
-                  src="/dongsaeng.png"
+                  src="/obraa-logo.png"
                   :alt="title"
                   class="size-8 rounded-full"
                 >

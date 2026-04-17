@@ -1,315 +1,315 @@
-﻿{
+{
   "common": {
-    "i18n": "多语言",
-    "abbreviations": "简",
-    "current_language": "简体中文",
-    "try_again": "重试",
-    "cancel": "取消",
-    "continue": "继续",
-    "close": "关闭",
-    "save": "保存",
-    "edit": "编辑",
-    "delete": "删除",
-    "delete_success": "删除成功！",
-    "search": "搜索"
+    "i18n": "???",
+    "abbreviations": "?",
+    "current_language": "????",
+    "try_again": "??",
+    "cancel": "??",
+    "continue": "??",
+    "close": "??",
+    "save": "??",
+    "edit": "??",
+    "delete": "??",
+    "delete_success": "????!",
+    "search": "??"
   },
   "theme": {
-    "toggle": "切换主题",
-    "light": "浅色",
-    "dark": "深色",
-    "system": "跟随系统"
+    "toggle": "????",
+    "light": "??",
+    "dark": "??",
+    "system": "????"
   },
   "login": {
-    "title": "登录",
-    "description": "请输入站点令牌以登录",
-    "tips": "提示",
-    "preview_token": "预览模式的站点令牌是",
-    "submit": "登录",
-    "failed": "登录失败，请重试",
-    "token_label": "站点令牌",
-    "token_required": "请输入令牌"
+    "title": "??",
+    "description": "??????????",
+    "tips": "??",
+    "preview_token": "??????????",
+    "submit": "??",
+    "failed": "????,???",
+    "token_label": "????",
+    "token_required": "?????"
   },
   "logout": {
-    "title": "退出登录？",
-    "confirm": "确定要退出登录吗？",
-    "action": "退出登录"
+    "title": "?????",
+    "confirm": "?????????",
+    "action": "????"
   },
   "layouts": {
     "footer": {
-      "copyright": "产品来自 PinoySeoul",
+      "copyright": "???? OBRAA",
       "social": {
-        "email": "邮箱",
+        "email": "??",
         "telegram": "Telegram",
-        "blog": "博客",
+        "blog": "??",
         "twitter": "Twitter",
         "mastodon": "Mastodon",
         "github": "GitHub","facebook":"Facebook"
       }
     },
     "header": {
-      "select_language": "选择语言"
+      "select_language": "????"
     }
   },
   "nav": {
-    "links": "链接",
-    "analysis": "分析",
-    "realtime": "实时",
-    "migrate": "导入/导出"
+    "links": "??",
+    "analysis": "??",
+    "realtime": "??",
+    "migrate": "??/??"
   },
   "sidebar": {
-    "subtitle": "短链接服务",
-    "platform": "平台",
-    "settings": "设置",
-    "import": "导入",
-    "export": "导出",
-    "coffee": "请我喝杯咖啡",
+    "subtitle": "?????",
+    "platform": "??",
+    "settings": "??",
+    "import": "??",
+    "export": "??",
+    "coffee": "??????",
     "github": "GitHub","facebook":"Facebook",
     "stars": "Stars",
-    "update": "新版本 {version} 可用（当前: {current}）"
+    "update": "??? {version} ??(??: {current})"
   },
   "home": {
     "hero": {
-      "github_repo": "GitHub 仓库"
+      "github_repo": "GitHub ??"
     },
     "features": {
-      "title": "功能特点",
-      "subtitle": "简单而实用的功能",
+      "title": "????",
+      "subtitle": "????????",
       "url_shortening": {
-        "title": "URL 缩短",
-        "description": "将您的 URL 压缩到最小长度"
+        "title": "URL ??",
+        "description": "??? URL ???????"
       },
       "analytics": {
-        "title": "数据分析",
-        "description": "监控链接分析并收集有价值的统计数据"
+        "title": "????",
+        "description": "?????????????????"
       },
       "serverless": {
-        "title": "无服务器",
-        "description": "无需传统服务器即可部署"
+        "title": "????",
+        "description": "???????????"
       },
       "customizable_slug": {
-        "title": "自定义短链",
-        "description": "支持个性化短链和大小写敏感"
+        "title": "?????",
+        "description": "?????????????"
       },
       "ai_slug": {
-        "title": "AI 短链",
-        "description": "利用 AI 生成短链"
+        "title": "AI ??",
+        "description": "?? AI ????"
       },
       "link_expiration": {
-        "title": "链接过期",
-        "description": "为您的链接设置过期日期"
+        "title": "????",
+        "description": "???????????"
       },
       "device_routing": {
-        "title": "设备路由",
-        "description": "iOS/Android 用户自动跳转应用商店"
+        "title": "????",
+        "description": "iOS/Android ??????????"
       },
       "og_preview": {
-        "title": "社交预览",
-        "description": "自定义社交媒体 OpenGraph 预览"
+        "title": "????",
+        "description": "??????? OpenGraph ??"
       },
       "realtime_analytics": {
-        "title": "实时分析",
-        "description": "3D 地球可视化和实时事件日志"
+        "title": "????",
+        "description": "3D ????????????"
       },
       "qr_code": {
-        "title": "二维码",
-        "description": "为短链生成二维码"
+        "title": "???",
+        "description": "????????"
       },
       "import_export": {
-        "title": "导入/导出",
-        "description": "通过 JSON 文件批量迁移"
+        "title": "??/??",
+        "description": "?? JSON ??????"
       },
       "multi_language": {
-        "title": "多语言",
-        "description": "仪表盘完整的国际化支持"
+        "title": "???",
+        "description": "???????????"
       }
     },
     "cta": {
-      "title": "立即部署",
-      "description": "只需几个简单的点击，您就可以免费开始部署",
-      "button": "开始部署"
+      "title": "????",
+      "description": "?????????,??????????",
+      "button": "????"
     },
     "logos": {
-      "title": "使用优秀的技术构建"
+      "title": "?????????"
     },
     "twitter": {
-      "follow": "在 X(Twitter) 上关注我"
+      "follow": "? X(Twitter) ????"
     },
     "stats": {
-      "title": "PinoySeoul 数据",
-      "subtitle": "受到全球开发者的信赖",
+      "title": "OBRAA ??",
+      "subtitle": "??????????",
       "stars": "GitHub Stars",
       "forks": "Forks"
     },
     "testimonials": {
-      "title": "用户好评",
-      "subtitle": "看看开发者们怎么说"
+      "title": "????",
+      "subtitle": "?????????"
     }
   },
   "dashboard": {
-    "title": "仪表盘",
-    "visits": "访问量",
-    "views": "浏览量",
-    "visitors": "访客数",
-    "referers": "引荐来源",
-    "stats": "的统计",
-    "trend": "趋势",
-    "weekly_trend": "周度趋势",
-    "custom_date": "自定义日期",
-    "date": "日期",
-    "date_range": "日期范围",
-    "locations": "地理位置",
-    "details": "详情",
-    "name": "名称",
-    "count": "数量",
-    "loading": "加载中",
-    "no_data": "暂无数据",
-    "none": "（无）",
-    "filter_placeholder": "过滤链接...",
+    "title": "???",
+    "visits": "???",
+    "views": "???",
+    "visitors": "???",
+    "referers": "????",
+    "stats": "???",
+    "trend": "??",
+    "weekly_trend": "????",
+    "custom_date": "?????",
+    "date": "??",
+    "date_range": "????",
+    "locations": "????",
+    "details": "??",
+    "name": "??",
+    "count": "??",
+    "loading": "???",
+    "no_data": "????",
+    "none": "(?)",
+    "filter_placeholder": "????...",
     "date_picker": {
-      "today": "今天",
-      "last_24h": "最近24小时",
-      "this_week": "本周",
-      "last_7d": "最近7天",
-      "this_month": "本月",
-      "last_30d": "最近30天",
-      "last_90d": "最近90天",
-      "custom": "自定义",
-      "custom_title": "自定义日期",
-      "single_date": "单个日期",
-      "date_range": "日期范围"
+      "today": "??",
+      "last_24h": "??24??",
+      "this_week": "??",
+      "last_7d": "??7?",
+      "this_month": "??",
+      "last_30d": "??30?",
+      "last_90d": "??90?",
+      "custom": "???",
+      "custom_title": "?????",
+      "single_date": "????",
+      "date_range": "????"
     },
     "metrics": {
-      "country": "国家",
-      "region": "地区",
-      "city": "城市",
-      "referer": "来源",
-      "slug": "短链",
-      "language": "语言",
-      "timezone": "时区",
-      "device": "设备",
-      "deviceType": "设备类型",
-      "os": "操作系统",
-      "browser": "浏览器",
-      "browserType": "浏览器类型"
+      "country": "??",
+      "region": "??",
+      "city": "??",
+      "referer": "??",
+      "slug": "??",
+      "language": "??",
+      "timezone": "??",
+      "device": "??",
+      "deviceType": "????",
+      "os": "????",
+      "browser": "???",
+      "browserType": "?????"
     },
     "time_picker": {
-      "today": "今天",
-      "last_5m": "最近5分钟",
-      "last_10m": "最近10分钟",
-      "last_30m": "最近30分钟",
-      "last_1h": "最近1小时",
-      "last_6h": "最近6小时",
-      "last_12h": "最近12小时",
-      "last_24h": "最近24小时"
+      "today": "??",
+      "last_5m": "??5??",
+      "last_10m": "??10??",
+      "last_30m": "??30??",
+      "last_1h": "??1??",
+      "last_6h": "??6??",
+      "last_12h": "??12??",
+      "last_24h": "??24??"
     }
   },
   "links": {
-    "create": "创建链接",
-    "edit": "编辑链接",
-    "delete_confirm_title": "确定要删除吗？",
-    "delete_confirm_desc": "此操作无法撤销。这将从服务器中永久删除您的链接。",
-    "delete_success": "删除成功！",
-    "delete_failed": "删除失败！",
-    "update_success": "链接更新成功",
-    "create_success": "链接创建成功",
-    "preview_mode_tip": "预览模式下的链接最多有效5分钟。",
-    "search_placeholder": "搜索链接...",
-    "no_results": "未找到链接。",
-    "group_title": "链接列表",
-    "copy_success": "复制成功！",
-    "created_at": "创建时间",
-    "updated_at": "更新时间",
-    "expires_at": "过期时间",
-    "no_more": "没有更多链接",
-    "load_failed": "加载链接失败,",
-    "download_qr_code": "下载二维码",
-    "change_qr_color": "更改二维码颜色",
+    "create": "????",
+    "edit": "????",
+    "delete_confirm_title": "???????",
+    "delete_confirm_desc": "????????????????????????",
+    "delete_success": "????!",
+    "delete_failed": "????!",
+    "update_success": "??????",
+    "create_success": "??????",
+    "preview_mode_tip": "????????????5???",
+    "search_placeholder": "????...",
+    "no_results": "??????",
+    "group_title": "????",
+    "copy_success": "????!",
+    "created_at": "????",
+    "updated_at": "????",
+    "expires_at": "????",
+    "no_more": "??????",
+    "load_failed": "??????,",
+    "download_qr_code": "?????",
+    "change_qr_color": "???????",
     "form": {
-      "url": "链接地址",
-      "slug": "短链",
-      "comment": "备注",
-      "expiration": "过期时间",
-      "pick_date": "选择日期",
-      "device_redirect": "设备跳转",
-      "google_play": "Google Play 链接",
-      "app_store": "App Store 链接",
-      "link_settings": "链接设置",
-      "redirect_with_query_label": "携带查询参数跳转",
-      "redirect_with_query_description": "将短链接的查询参数追加到目标 URL。优先级高于全局设置。",
-      "cloaking_label": "启用链接伪装",
-      "cloaking_description": "在浏览器地址栏中显示短链接而非目标 URL。部分禁止 iframe 嵌入的网站可能无法生效。",
-      "unsafe_label": "标记为不安全",
-      "unsafe_description": "跳转前显示警告页面，访客需确认后才能继续。",
-      "password_label": "密码保护",
-      "password_description": "访问此短链接时需要输入密码。",
-      "password_placeholder": "留空则不启用",
-      "og_settings": "OpenGraph 设置",
-      "og_title": "标题",
-      "og_title_placeholder": "留空则使用 URL 域名",
-      "og_description": "描述",
-      "og_description_placeholder": "链接描述",
-      "og_image": "图片",
-      "advanced": "高级设置",
-      "more_options": "更多选项",
-      "image_invalid_type": "请上传图片文件",
-      "image_size_limit": "图片大小不能超过 5MB",
-      "image_upload_success": "图片上传成功",
-      "image_upload_failed": "图片上传失败",
-      "image_upload_hint": "点击或拖拽上传图片",
-      "image_ratio_hint": "推荐尺寸：1200×630",
-      "slug_required": "请先输入短链"
+      "url": "????",
+      "slug": "??",
+      "comment": "??",
+      "expiration": "????",
+      "pick_date": "????",
+      "device_redirect": "????",
+      "google_play": "Google Play ??",
+      "app_store": "App Store ??",
+      "link_settings": "????",
+      "redirect_with_query_label": "????????",
+      "redirect_with_query_description": "?????????????? URL???????????",
+      "cloaking_label": "??????",
+      "cloaking_description": "????????????????? URL????? iframe ????????????",
+      "unsafe_label": "??????",
+      "unsafe_description": "?????????,???????????",
+      "password_label": "????",
+      "password_description": "??????????????",
+      "password_placeholder": "??????",
+      "og_settings": "OpenGraph ??",
+      "og_title": "??",
+      "og_title_placeholder": "????? URL ??",
+      "og_description": "??",
+      "og_description_placeholder": "????",
+      "og_image": "??",
+      "advanced": "????",
+      "more_options": "????",
+      "image_invalid_type": "???????",
+      "image_size_limit": "???????? 5MB",
+      "image_upload_success": "??????",
+      "image_upload_failed": "??????",
+      "image_upload_hint": "?????????",
+      "image_ratio_hint": "????:1200�630",
+      "slug_required": "??????"
     },
     "sort": {
-      "newest": "最新",
-      "oldest": "最旧",
-      "az": "短链(A-Z)",
-      "za": "短链(Z-A)",
-      "tip": "体验功能: 仅对已经加载的链接有效"
+      "newest": "??",
+      "oldest": "??",
+      "az": "??(A-Z)",
+      "za": "??(Z-A)",
+      "tip": "????: ???????????"
     },
-    "update_failed": "更新链接失败",
-    "create_failed": "创建链接失败",
-    "ai_slug_failed": "AI 生成短链失败"
+    "update_failed": "??????",
+    "create_failed": "??????",
+    "ai_slug_failed": "AI ??????"
   },
   "migrate": {
     "backup": {
-      "title": "手动备份",
-      "description": "手动触发所有链接到已配置 R2 存储桶的备份",
-      "button": "开始备份",
-      "backing_up": "备份中...",
-      "success": "备份成功",
-      "failed": "备份失败"
+      "title": "????",
+      "description": "???????????? R2 ??????",
+      "button": "????",
+      "backing_up": "???...",
+      "success": "????",
+      "failed": "????"
     },
     "export": {
-      "title": "导出链接",
-      "description": "将所有链接下载为 JSON 文件",
-      "button": "导出全部",
-      "total_links": "链接总数",
-      "success": "导出成功",
-      "failed": "导出失败"
+      "title": "????",
+      "description": "???????? JSON ??",
+      "button": "????",
+      "total_links": "????",
+      "success": "????",
+      "failed": "????"
     },
     "import": {
-      "title": "导入链接",
-      "description": "上传 JSON 文件以导入链接",
-      "dropzone": "拖拽 JSON 文件到此处或点击上传",
-      "links_found": "条链接",
-      "button": "开始导入",
-      "importing": "导入中...",
-      "import_more": "继续导入",
-      "download_success": "下载成功项",
-      "download_skipped": "下载跳过项",
-      "download_failed": "下载失败项",
+      "title": "????",
+      "description": "?? JSON ???????",
+      "dropzone": "?? JSON ??????????",
+      "links_found": "???",
+      "button": "????",
+      "importing": "???...",
+      "import_more": "????",
+      "download_success": "?????",
+      "download_skipped": "?????",
+      "download_failed": "?????",
       "result": {
-        "title": "导入结果",
-        "success": "成功导入",
-        "skipped": "已跳过（已存在）",
-        "failed": "失败",
-        "success_message": "成功导入 {count} 条链接"
+        "title": "????",
+        "success": "????",
+        "skipped": "???(???)",
+        "failed": "??",
+        "success_message": "???? {count} ???"
       },
       "errors": {
-        "invalid_json": "无效的 JSON 文件",
-        "invalid_format": "文件格式无效，请使用从 PinoySeoul 导出的文件",
-        "no_links": "文件中未找到链接",
-        "parse_error": "文件解析失败"
+        "invalid_json": "??? JSON ??",
+        "invalid_format": "??????,???? OBRAA ?????",
+        "no_links": "????????",
+        "parse_error": "??????"
       }
     }
   }

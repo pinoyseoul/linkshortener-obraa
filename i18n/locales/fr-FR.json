@@ -1,42 +1,42 @@
-ï»¿{
+{
   "common": {
     "i18n": "Multi Langue",
     "abbreviations": "Fr",
-    "current_language": "FranÃ§ais",
-    "try_again": "RÃ©essayer",
+    "current_language": "Français",
+    "try_again": "Réessayer",
     "cancel": "Annuler",
     "continue": "Continuer",
     "close": "Fermer",
     "save": "Enregistrer",
     "edit": "Modifier",
     "delete": "Supprimer",
-    "delete_success": "Suppression rÃ©ussie !",
+    "delete_success": "Suppression réussie !",
     "search": "Rechercher"
   },
   "theme": {
-    "toggle": "Changer de thÃ¨me",
+    "toggle": "Changer de thème",
     "light": "Clair",
     "dark": "Sombre",
-    "system": "SystÃ¨me"
+    "system": "Système"
   },
   "login": {
     "title": "Connexion",
     "description": "Entrez votre jeton pour vous connecter",
     "tips": "Astuces",
-    "preview_token": "Le jeton du site pour le mode aperÃ§u est",
+    "preview_token": "Le jeton du site pour le mode aperçu est",
     "submit": "Connexion",
-    "failed": "Ã‰chec de la connexion, veuillez rÃ©essayer",
+    "failed": "Échec de la connexion, veuillez réessayer",
     "token_label": "Jeton du site",
     "token_required": "Le jeton est requis"
   },
   "logout": {
-    "title": "DÃ©connexion ?",
-    "confirm": "ÃŠtes-vous sÃ»r de vouloir vous dÃ©connecter ?",
-    "action": "DÃ©connexion"
+    "title": "Déconnexion ?",
+    "confirm": "Êtes-vous sûr de vouloir vous déconnecter ?",
+    "action": "Déconnexion"
   },
   "layouts": {
     "footer": {
-      "copyright": "Produits de PinoySeoul",
+      "copyright": "Produits de OBRAA",
       "social": {
         "email": "Email",
         "telegram": "Telegram",
@@ -59,21 +59,21 @@
   "sidebar": {
     "subtitle": "Raccourcisseur de liens",
     "platform": "Plateforme",
-    "settings": "ParamÃ¨tres",
+    "settings": "Paramètres",
     "import": "Importer",
     "export": "Exporter",
-    "coffee": "Offrez-moi un cafÃ©",
+    "coffee": "Offrez-moi un café",
     "github": "GitHub","facebook":"Facebook",
     "stars": "Stars",
     "update": "Nouvelle version {version} disponible (actuelle : {current})"
   },
   "home": {
     "hero": {
-      "github_repo": "DÃ©pÃ´t GitHub"
+      "github_repo": "Dépôt GitHub"
     },
     "features": {
-      "title": "FonctionnalitÃ©s",
-      "subtitle": "FonctionnalitÃ© simple et adÃ©quate",
+      "title": "Fonctionnalités",
+      "subtitle": "Fonctionnalité simple et adéquate",
       "url_shortening": {
         "title": "Raccourcissement d'URL",
         "description": "Raccourcissez la taille de vos liens"
@@ -84,35 +84,35 @@
       },
       "serverless": {
         "title": "Serverless",
-        "description": "DÃ©ployez sans avoir besoin de serveurs traditionnels"
+        "description": "Déployez sans avoir besoin de serveurs traditionnels"
       },
       "customizable_slug": {
         "title": "Slug personnalisable",
-        "description": "Prise en charge des slugs personnalisÃ©s et de la sensibilitÃ© Ã  la casse"
+        "description": "Prise en charge des slugs personnalisés et de la sensibilité à la casse"
       },
       "ai_slug": {
         "title": "Slug IA",
-        "description": "Utilisez l'IA pour crÃ©er des slugs"
+        "description": "Utilisez l'IA pour créer des slugs"
       },
       "link_expiration": {
         "title": "Expiration des liens",
-        "description": "DÃ©finissez des dates d'expiration pour vos liens"
+        "description": "Définissez des dates d'expiration pour vos liens"
       },
       "device_routing": {
         "title": "Routage par appareil",
         "description": "Redirigez les utilisateurs iOS/Android vers les stores d'apps"
       },
       "og_preview": {
-        "title": "AperÃ§u social",
-        "description": "AperÃ§us OpenGraph personnalisÃ©s pour les rÃ©seaux sociaux"
+        "title": "Aperçu social",
+        "description": "Aperçus OpenGraph personnalisés pour les réseaux sociaux"
       },
       "realtime_analytics": {
-        "title": "Analyses en temps rÃ©el",
-        "description": "Globe 3D en direct et journaux d'Ã©vÃ©nements"
+        "title": "Analyses en temps réel",
+        "description": "Globe 3D en direct et journaux d'événements"
       },
       "qr_code": {
         "title": "Code QR",
-        "description": "GÃ©nÃ©rez des codes QR pour vos liens courts"
+        "description": "Générez des codes QR pour vos liens courts"
       },
       "import_export": {
         "title": "Import/Export",
@@ -124,9 +124,9 @@
       }
     },
     "cta": {
-      "title": "DÃ©ploiement immÃ©diat",
-      "description": "En quelques clics, vous pouvez commencer Ã  dÃ©ployer sans aucun frais",
-      "button": "Lancer le dÃ©ploiement"
+      "title": "Déploiement immédiat",
+      "description": "En quelques clics, vous pouvez commencer à déployer sans aucun frais",
+      "button": "Lancer le déploiement"
     },
     "logos": {
       "title": "Construit avec de superbes technologies"
@@ -135,14 +135,14 @@
       "follow": "Suivez-moi sur X(Twitter)"
     },
     "stats": {
-      "title": "PinoySeoul en chiffres",
-      "subtitle": "ApprouvÃ© par les dÃ©veloppeurs du monde entier",
+      "title": "OBRAA en chiffres",
+      "subtitle": "Approuvé par les développeurs du monde entier",
       "stars": "Stars sur GitHub",
       "forks": "Forks"
     },
     "testimonials": {
-      "title": "AimÃ© par les utilisateurs",
-      "subtitle": "DÃ©couvrez ce que disent les dÃ©veloppeurs Ã  propos de PinoySeoul"
+      "title": "Aimé par les utilisateurs",
+      "subtitle": "Découvrez ce que disent les développeurs à propos de OBRAA"
     }
   },
   "dashboard": {
@@ -154,33 +154,33 @@
     "stats": "Statistiques",
     "trend": "Tendance",
     "weekly_trend": "Tendance hebdomadaire",
-    "custom_date": "Date personnalisÃ©e",
+    "custom_date": "Date personnalisée",
     "date": "Date",
     "date_range": "Intervalle de temps",
     "locations": "Localisations",
-    "details": "DÃ©tails",
+    "details": "Détails",
     "name": "Nom",
     "count": "Nombre",
     "loading": "Chargement",
-    "no_data": "Aucune donnÃ©e",
+    "no_data": "Aucune donnée",
     "none": "(Aucun)",
     "filter_placeholder": "Filtrer les liens...",
     "date_picker": {
       "today": "Aujourd'hui",
-      "last_24h": "DerniÃ¨res 24 heures",
+      "last_24h": "Dernières 24 heures",
       "this_week": "Cette semaine",
       "last_7d": "7 derniers jours",
       "this_month": "Ce mois-ci",
       "last_30d": "30 derniers jours",
       "last_90d": "90 derniers jours",
-      "custom": "PersonnalisÃ©",
-      "custom_title": "Date personnalisÃ©e",
+      "custom": "Personnalisé",
+      "custom_title": "Date personnalisée",
       "single_date": "Date",
       "date_range": "Plage de dates"
     },
     "metrics": {
       "country": "Pays",
-      "region": "RÃ©gion",
+      "region": "Région",
       "city": "Ville",
       "referer": "Referrer",
       "slug": "Slug",
@@ -204,25 +204,25 @@
     }
   },
   "links": {
-    "create": "CrÃ©er un lien",
+    "create": "Créer un lien",
     "edit": "Modifier le lien",
-    "delete_confirm_title": "ÃŠtes-vous absolument sÃ»r ?",
-    "delete_confirm_desc": "Cette action est irrÃ©versible. Cela supprimera votre lien des serveurs.",
-    "delete_success": "Suppression rÃ©ussie !",
-    "delete_failed": "Ã‰chec de la suppression !",
-    "update_success": "Lien mis Ã  jour avec succÃ¨s",
-    "create_success": "Lien crÃ©Ã© avec succÃ¨s",
-    "preview_mode_tip": "Le lien en mode aperÃ§u est valide jusqu'Ã  5 minutes.",
+    "delete_confirm_title": "Êtes-vous absolument sûr ?",
+    "delete_confirm_desc": "Cette action est irréversible. Cela supprimera votre lien des serveurs.",
+    "delete_success": "Suppression réussie !",
+    "delete_failed": "Échec de la suppression !",
+    "update_success": "Lien mis à jour avec succès",
+    "create_success": "Lien créé avec succès",
+    "preview_mode_tip": "Le lien en mode aperçu est valide jusqu'à 5 minutes.",
     "search_placeholder": "Rechercher des liens...",
-    "no_results": "Aucun lien trouvÃ©.",
+    "no_results": "Aucun lien trouvé.",
     "group_title": "Liens",
-    "copy_success": "Copie rÃ©ussie !",
-    "created_at": "CrÃ©Ã© le",
-    "updated_at": "Mis Ã  jour le",
+    "copy_success": "Copie réussie !",
+    "created_at": "Créé le",
+    "updated_at": "Mis à jour le",
     "expires_at": "Expire le",
     "no_more": "Plus de liens",
-    "load_failed": "Ã‰chec du chargement des liens,",
-    "download_qr_code": "TÃ©lÃ©charger le code QR",
+    "load_failed": "Échec du chargement des liens,",
+    "download_qr_code": "Télécharger le code QR",
     "change_qr_color": "Changer la couleur du code QR",
     "form": {
       "url": "URL",
@@ -233,83 +233,83 @@
       "device_redirect": "Redirection par appareil",
       "google_play": "URL Google Play",
       "app_store": "URL App Store",
-      "link_settings": "ParamÃ¨tres du lien",
-      "redirect_with_query_label": "Rediriger avec les paramÃ¨tres de requÃªte",
-      "redirect_with_query_description": "Ajouter les paramÃ¨tres de requÃªte du lien court Ã  l'URL de destination. Remplace le paramÃ¨tre global.",
+      "link_settings": "Paramètres du lien",
+      "redirect_with_query_label": "Rediriger avec les paramètres de requête",
+      "redirect_with_query_description": "Ajouter les paramètres de requête du lien court à l'URL de destination. Remplace le paramètre global.",
       "cloaking_label": "Activer le masquage de lien",
-      "cloaking_description": "Affiche votre lien court dans la barre d'adresse du navigateur au lieu de l'URL de destination. Peut ne pas fonctionner pour les sites qui bloquent l'intÃ©gration iframe.",
+      "cloaking_description": "Affiche votre lien court dans la barre d'adresse du navigateur au lieu de l'URL de destination. Peut ne pas fonctionner pour les sites qui bloquent l'intégration iframe.",
       "unsafe_label": "Marquer comme dangereux",
       "unsafe_description": "Afficher une page d'avertissement avant la redirection. Les visiteurs doivent confirmer pour continuer.",
       "password_label": "Protection par mot de passe",
-      "password_description": "Exiger un mot de passe pour accÃ©der Ã  ce lien court.",
-      "password_placeholder": "Laisser vide pour dÃ©sactiver",
-      "og_settings": "ParamÃ¨tres OpenGraph",
+      "password_description": "Exiger un mot de passe pour accéder à ce lien court.",
+      "password_placeholder": "Laisser vide pour désactiver",
+      "og_settings": "Paramètres OpenGraph",
       "og_title": "Titre",
       "og_title_placeholder": "Laisser vide pour utiliser le nom de domaine",
       "og_description": "Description",
       "og_description_placeholder": "Description du lien",
       "og_image": "Image",
-      "advanced": "AvancÃ©",
+      "advanced": "Avancé",
       "more_options": "Plus d'options",
-      "image_invalid_type": "Veuillez tÃ©lÃ©charger un fichier image",
-      "image_size_limit": "La taille de l'image ne peut pas dÃ©passer 5 Mo",
-      "image_upload_success": "Image tÃ©lÃ©chargÃ©e avec succÃ¨s",
-      "image_upload_failed": "Ã‰chec du tÃ©lÃ©chargement de l'image",
-      "image_upload_hint": "Cliquez ou glissez pour tÃ©lÃ©charger une image",
-      "image_ratio_hint": "RecommandÃ© : 1200Ã—630",
+      "image_invalid_type": "Veuillez télécharger un fichier image",
+      "image_size_limit": "La taille de l'image ne peut pas dépasser 5 Mo",
+      "image_upload_success": "Image téléchargée avec succès",
+      "image_upload_failed": "Échec du téléchargement de l'image",
+      "image_upload_hint": "Cliquez ou glissez pour télécharger une image",
+      "image_ratio_hint": "Recommandé : 1200×630",
       "slug_required": "Veuillez d'abord entrer un slug"
     },
     "sort": {
-      "newest": "Les plus rÃ©cents",
+      "newest": "Les plus récents",
       "oldest": "Les plus anciens",
       "az": "Slug A-Z",
       "za": "Slug Z-A",
-      "tip": "Essai : uniquement pour les liens chargÃ©s"
+      "tip": "Essai : uniquement pour les liens chargés"
     },
-    "update_failed": "Ã‰chec de la mise Ã  jour du lien",
-    "create_failed": "Ã‰chec de la crÃ©ation du lien",
-    "ai_slug_failed": "Ã‰chec de la gÃ©nÃ©ration du slug IA"
+    "update_failed": "Échec de la mise à jour du lien",
+    "create_failed": "Échec de la création du lien",
+    "ai_slug_failed": "Échec de la génération du slug IA"
   },
   "migrate": {
     "backup": {
       "title": "Sauvegarde manuelle",
-      "description": "DÃ©clenchez une sauvegarde manuelle de tous les liens vers le bucket R2 configurÃ©",
-      "button": "DÃ©marrer la sauvegarde",
+      "description": "Déclenchez une sauvegarde manuelle de tous les liens vers le bucket R2 configuré",
+      "button": "Démarrer la sauvegarde",
       "backing_up": "Sauvegarde en cours...",
-      "success": "Sauvegarde rÃ©ussie",
-      "failed": "Ã‰chec de la sauvegarde"
+      "success": "Sauvegarde réussie",
+      "failed": "Échec de la sauvegarde"
     },
     "export": {
       "title": "Exporter les liens",
-      "description": "TÃ©lÃ©chargez tous vos liens au format JSON",
+      "description": "Téléchargez tous vos liens au format JSON",
       "button": "Tout exporter",
       "total_links": "Total des liens",
-      "success": "Export rÃ©ussi",
-      "failed": "Ã‰chec de l'export"
+      "success": "Export réussi",
+      "failed": "Échec de l'export"
     },
     "import": {
       "title": "Importer des liens",
-      "description": "TÃ©lÃ©chargez un fichier JSON pour importer des liens",
-      "dropzone": "DÃ©posez le fichier JSON ici ou cliquez pour tÃ©lÃ©charger",
-      "links_found": "liens trouvÃ©s",
+      "description": "Téléchargez un fichier JSON pour importer des liens",
+      "dropzone": "Déposez le fichier JSON ici ou cliquez pour télécharger",
+      "links_found": "liens trouvés",
       "button": "Lancer l'import",
       "importing": "Importation...",
       "import_more": "Importer plus",
-      "download_success": "TÃ©lÃ©charger les Ã©lÃ©ments rÃ©ussis",
-      "download_skipped": "TÃ©lÃ©charger les Ã©lÃ©ments ignorÃ©s",
-      "download_failed": "TÃ©lÃ©charger les Ã©lÃ©ments Ã©chouÃ©s",
+      "download_success": "Télécharger les éléments réussis",
+      "download_skipped": "Télécharger les éléments ignorés",
+      "download_failed": "Télécharger les éléments échoués",
       "result": {
-        "title": "RÃ©sultat de l'import",
-        "success": "ImportÃ© avec succÃ¨s",
-        "skipped": "IgnorÃ© (existe dÃ©jÃ )",
-        "failed": "Ã‰chouÃ©",
-        "success_message": "{count} liens importÃ©s avec succÃ¨s"
+        "title": "Résultat de l'import",
+        "success": "Importé avec succès",
+        "skipped": "Ignoré (existe déjà)",
+        "failed": "Échoué",
+        "success_message": "{count} liens importés avec succès"
       },
       "errors": {
         "invalid_json": "Fichier JSON invalide",
-        "invalid_format": "Format de fichier invalide. Veuillez utiliser un fichier exportÃ© depuis PinoySeoul.",
-        "no_links": "Aucun lien trouvÃ© dans le fichier",
-        "parse_error": "Ã‰chec de l'analyse du fichier"
+        "invalid_format": "Format de fichier invalide. Veuillez utiliser un fichier exporté depuis OBRAA.",
+        "no_links": "Aucun lien trouvé dans le fichier",
+        "parse_error": "Échec de l'analyse du fichier"
       }
     }
   }

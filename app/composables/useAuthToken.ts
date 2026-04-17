@@ -1,4 +1,4 @@
-const TOKEN_KEY = 'SinkSiteToken'
+const TOKEN_KEY = 'OBRAASiteToken'
 
 export function useAuthToken() {
   function getToken() {

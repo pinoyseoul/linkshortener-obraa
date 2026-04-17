@@ -1,8 +1,8 @@
-ï»¿{
+{
   "common": {
     "i18n": "Multi idioma",
     "abbreviations": "Pt",
-    "current_language": "PortuguÃªs (PT)",
+    "current_language": "Português (PT)",
     "try_again": "Tenta novamente",
     "cancel": "Cancelar",
     "continue": "Continuar",
@@ -20,23 +20,23 @@
     "system": "Sistema"
   },
   "login": {
-    "title": "Iniciar sessÃ£o",
+    "title": "Iniciar sessão",
     "description": "Insere o teu token do site para entrar",
     "tips": "Dicas",
-    "preview_token": "O token do site para o modo de prÃ©-visualizaÃ§Ã£o Ã©",
+    "preview_token": "O token do site para o modo de pré-visualização é",
     "submit": "Entrar",
-    "failed": "O inÃ­cio de sessÃ£o falhou, por favor tenta novamente",
+    "failed": "O início de sessão falhou, por favor tenta novamente",
     "token_label": "Token do site",
-    "token_required": "O token Ã© obrigatÃ³rio"
+    "token_required": "O token é obrigatório"
   },
   "logout": {
-    "title": "Terminar sessÃ£o?",
-    "confirm": "Tens a certeza que queres terminar sessÃ£o?",
+    "title": "Terminar sessão?",
+    "confirm": "Tens a certeza que queres terminar sessão?",
     "action": "Sair"
   },
   "layouts": {
     "footer": {
-      "copyright": "Produtos da PinoySeoul",
+      "copyright": "Produtos da OBRAA",
       "social": {
         "email": "Email",
         "telegram": "Telegram",
@@ -52,71 +52,71 @@
   },
   "nav": {
     "links": "Links",
-    "analysis": "AnÃ¡lise",
+    "analysis": "Análise",
     "realtime": "Tempo Real",
     "migrate": "Importar/Exportar"
   },
   "sidebar": {
     "subtitle": "Encurtador de links",
     "platform": "Plataforma",
-    "settings": "DefiniÃ§Ãµes",
+    "settings": "Definições",
     "import": "Importar",
     "export": "Exportar",
-    "coffee": "Paga-me um cafÃ©",
+    "coffee": "Paga-me um café",
     "github": "GitHub","facebook":"Facebook",
     "stars": "Estrelas",
-    "update": "Nova versÃ£o {version} disponÃ­vel (atual: {current})"
+    "update": "Nova versão {version} disponível (atual: {current})"
   },
   "home": {
     "hero": {
-      "github_repo": "RepositÃ³rio GitHub"
+      "github_repo": "Repositório GitHub"
     },
     "features": {
       "title": "Funcionalidades",
       "subtitle": "Funcionalidade simples e suficiente",
       "url_shortening": {
         "title": "Encurtamento de URL",
-        "description": "Comprime os teus URLs para o tamanho mÃ­nimo"
+        "description": "Comprime os teus URLs para o tamanho mínimo"
       },
       "analytics": {
-        "title": "AnalÃ­tica",
-        "description": "Monitoriza a anÃ¡lise de links e obtÃ©m estatÃ­sticas detalhadas"
+        "title": "Analítica",
+        "description": "Monitoriza a análise de links e obtém estatísticas detalhadas"
       },
       "serverless": {
         "title": "Serverless",
         "description": "Implementa sem a necessidade de servidores tradicionais"
       },
       "customizable_slug": {
-        "title": "Slug PersonalizÃ¡vel",
-        "description": "Suporte para slugs personalizados e sensibilidade a maiÃºsculas/minÃºsculas"
+        "title": "Slug Personalizável",
+        "description": "Suporte para slugs personalizados e sensibilidade a maiúsculas/minúsculas"
       },
       "ai_slug": {
         "title": "Slug via IA",
         "description": "Utiliza a IA para gerar slugs automaticamente"
       },
       "link_expiration": {
-        "title": "ExpiraÃ§Ã£o de Link",
-        "description": "Define datas de expiraÃ§Ã£o para os teus links"
+        "title": "Expiração de Link",
+        "description": "Define datas de expiração para os teus links"
       },
       "device_routing": {
         "title": "Encaminhamento por Dispositivo",
         "description": "Redireciona utilizadores iOS/Android para links da App Store"
       },
       "og_preview": {
-        "title": "PrÃ©-visualizaÃ§Ã£o Social",
-        "description": "PrÃ©-visualizaÃ§Ãµes OpenGraph personalizadas para redes sociais"
+        "title": "Pré-visualização Social",
+        "description": "Pré-visualizações OpenGraph personalizadas para redes sociais"
       },
       "realtime_analytics": {
-        "title": "AnalÃ­tica em Tempo Real",
+        "title": "Analítica em Tempo Real",
         "description": "Globo 3D ao vivo e registos de eventos em tempo real"
       },
       "qr_code": {
-        "title": "CÃ³digo QR",
-        "description": "Gere cÃ³digos QR para os teus links curtos"
+        "title": "Código QR",
+        "description": "Gere códigos QR para os teus links curtos"
       },
       "import_export": {
         "title": "Importar/Exportar",
-        "description": "MigraÃ§Ã£o em massa via ficheiros JSON"
+        "description": "Migração em massa via ficheiros JSON"
       },
       "multi_language": {
         "title": "Multi-idioma",
@@ -124,40 +124,40 @@
       }
     },
     "cta": {
-      "title": "ImplementaÃ§Ã£o imediata",
-      "description": "Com apenas alguns cliques simples, podes comeÃ§ar a implementar sem custos",
-      "button": "Iniciar implementaÃ§Ã£o"
+      "title": "Implementação imediata",
+      "description": "Com apenas alguns cliques simples, podes começar a implementar sem custos",
+      "button": "Iniciar implementação"
     },
     "logos": {
-      "title": "ConstruÃ­do com tecnologias incrÃ­veis"
+      "title": "Construído com tecnologias incríveis"
     },
     "twitter": {
       "follow": "Segue no X (Twitter)"
     },
     "stats": {
-      "title": "Mergulha nos nÃºmeros",
+      "title": "Mergulha nos números",
       "subtitle": "Confiado por programadores no mundo inteiro",
       "stars": "Estrelas no GitHub",
       "forks": "Forks"
     },
     "testimonials": {
       "title": "Adorado pelos clientes",
-      "subtitle": "VÃª o que os programadores dizem sobre o PinoySeoul"
+      "subtitle": "Vê o que os programadores dizem sobre o OBRAA"
     }
   },
   "dashboard": {
     "title": "Dashboard",
     "visits": "Visitas",
-    "views": "VisualizaÃ§Ãµes",
+    "views": "Visualizações",
     "visitors": "Visitantes",
-    "referers": "ReferÃªncias",
-    "stats": " - EstatÃ­sticas",
-    "trend": "TendÃªncia",
-    "weekly_trend": "TendÃªncia semanal",
+    "referers": "Referências",
+    "stats": " - Estatísticas",
+    "trend": "Tendência",
+    "weekly_trend": "Tendência semanal",
     "custom_date": "Data personalizada",
     "date": "Data",
     "date_range": "Intervalo de datas",
-    "locations": "LocalizaÃ§Ãµes",
+    "locations": "Localizações",
     "details": "Detalhes",
     "name": "Nome",
     "count": "Contagem",
@@ -167,25 +167,25 @@
     "filter_placeholder": "Filtrar links...",
     "date_picker": {
       "today": "Hoje",
-      "last_24h": "Ãšltimas 24 horas",
+      "last_24h": "Últimas 24 horas",
       "this_week": "Esta semana",
-      "last_7d": "Ãšltimos 7 dias",
-      "this_month": "Este mÃªs",
-      "last_30d": "Ãšltimos 30 dias",
-      "last_90d": "Ãšltimos 90 dias",
+      "last_7d": "Últimos 7 dias",
+      "this_month": "Este mês",
+      "last_30d": "Últimos 30 dias",
+      "last_90d": "Últimos 90 dias",
       "custom": "Personalizado",
       "custom_title": "Data personalizada",
       "single_date": "Data",
       "date_range": "Intervalo"
     },
     "metrics": {
-      "country": "PaÃ­s",
-      "region": "RegiÃ£o",
+      "country": "País",
+      "region": "Região",
       "city": "Cidade",
-      "referer": "ReferÃªncia",
+      "referer": "Referência",
       "slug": "Slug",
       "language": "Idioma",
-      "timezone": "Fuso horÃ¡rio",
+      "timezone": "Fuso horário",
       "device": "Dispositivo",
       "deviceType": "Tipo de dispositivo",
       "os": "SO",
@@ -194,25 +194,25 @@
     },
     "time_picker": {
       "today": "Hoje",
-      "last_5m": "Ãšltimos 5 minutos",
-      "last_10m": "Ãšltimos 10 minutos",
-      "last_30m": "Ãšltimos 30 minutos",
-      "last_1h": "Ãšltima 1 hora",
-      "last_6h": "Ãšltimas 6 horas",
-      "last_12h": "Ãšltimas 12 horas",
-      "last_24h": "Ãšltimas 24 horas"
+      "last_5m": "Últimos 5 minutos",
+      "last_10m": "Últimos 10 minutos",
+      "last_30m": "Últimos 30 minutos",
+      "last_1h": "Última 1 hora",
+      "last_6h": "Últimas 6 horas",
+      "last_12h": "Últimas 12 horas",
+      "last_24h": "Últimas 24 horas"
     }
   },
   "links": {
     "create": "Criar link",
     "edit": "Editar link",
     "delete_confirm_title": "Tens a certeza absoluta?",
-    "delete_confirm_desc": "Esta aÃ§Ã£o Ã© irreversÃ­vel. Isto irÃ¡ eliminar permanentemente o teu link dos servidores.",
+    "delete_confirm_desc": "Esta ação é irreversível. Isto irá eliminar permanentemente o teu link dos servidores.",
     "delete_success": "Eliminado com sucesso!",
     "delete_failed": "Falha ao eliminar!",
     "update_success": "Link atualizado com sucesso",
     "create_success": "Link criado com sucesso",
-    "preview_mode_tip": "O link do modo de prÃ©-visualizaÃ§Ã£o Ã© vÃ¡lido por atÃ© 5 minutos.",
+    "preview_mode_tip": "O link do modo de pré-visualização é válido por até 5 minutos.",
     "search_placeholder": "Pesquisar links...",
     "no_results": "Nenhum link encontrado.",
     "group_title": "Links",
@@ -220,43 +220,43 @@
     "created_at": "Criado em",
     "updated_at": "Atualizado em",
     "expires_at": "Expira em",
-    "no_more": "NÃ£o hÃ¡ mais links",
+    "no_more": "Não há mais links",
     "load_failed": "Falha ao carregar links,",
-    "download_qr_code": "Descarregar cÃ³digo QR",
-    "change_qr_color": "Alterar cor do cÃ³digo QR",
+    "download_qr_code": "Descarregar código QR",
+    "change_qr_color": "Alterar cor do código QR",
     "form": {
       "url": "URL",
       "slug": "Slug",
-      "comment": "ComentÃ¡rio",
-      "expiration": "ExpiraÃ§Ã£o",
+      "comment": "Comentário",
+      "expiration": "Expiração",
       "pick_date": "Escolhe uma data",
       "device_redirect": "Redirecionamento de dispositivo",
       "google_play": "URL do Google Play",
       "app_store": "URL da App Store",
-      "link_settings": "DefiniÃ§Ãµes do link",
-      "redirect_with_query_label": "Redirecionar com parÃ¢metros de consulta",
-      "redirect_with_query_description": "Anexar parÃ¢metros de consulta do link curto ao URL de destino. Substitui a definiÃ§Ã£o global.",
-      "cloaking_label": "Ativar ocultaÃ§Ã£o de link",
-      "cloaking_description": "Mostrar o teu link curto na barra de endereÃ§o do navegador em vez do URL de destino. Isto pode nÃ£o funcionar em sites que bloqueiam a incorporaÃ§Ã£o de iframes.",
+      "link_settings": "Definições do link",
+      "redirect_with_query_label": "Redirecionar com parâmetros de consulta",
+      "redirect_with_query_description": "Anexar parâmetros de consulta do link curto ao URL de destino. Substitui a definição global.",
+      "cloaking_label": "Ativar ocultação de link",
+      "cloaking_description": "Mostrar o teu link curto na barra de endereço do navegador em vez do URL de destino. Isto pode não funcionar em sites que bloqueiam a incorporação de iframes.",
       "unsafe_label": "Marcar como inseguro",
-      "unsafe_description": "Mostrar uma pÃ¡gina de aviso antes do redirecionamento. Os visitantes devem confirmar para continuar.",
-      "password_label": "ProteÃ§Ã£o por palavra-passe",
+      "unsafe_description": "Mostrar uma página de aviso antes do redirecionamento. Os visitantes devem confirmar para continuar.",
+      "password_label": "Proteção por palavra-passe",
       "password_description": "Exigir uma palavra-passe para aceder a este link curto.",
       "password_placeholder": "Deixa vazio para desativar",
-      "og_settings": "DefiniÃ§Ãµes OpenGraph",
-      "og_title": "TÃ­tulo",
+      "og_settings": "Definições OpenGraph",
+      "og_title": "Título",
       "og_title_placeholder": "Deixa vazio para usar o nome do host do URL",
-      "og_description": "DescriÃ§Ã£o",
-      "og_description_placeholder": "DescriÃ§Ã£o do link",
+      "og_description": "Descrição",
+      "og_description_placeholder": "Descrição do link",
       "og_image": "Imagem",
-      "advanced": "AvanÃ§ado",
-      "more_options": "Mais opÃ§Ãµes",
+      "advanced": "Avançado",
+      "more_options": "Mais opções",
       "image_invalid_type": "Por favor, carrega um ficheiro de imagem",
-      "image_size_limit": "O tamanho da imagem nÃ£o pode exceder 5MB",
+      "image_size_limit": "O tamanho da imagem não pode exceder 5MB",
       "image_upload_success": "Imagem carregada com sucesso",
       "image_upload_failed": "Falha ao carregar imagem",
       "image_upload_hint": "Clica ou arrasta para carregar a imagem",
-      "image_ratio_hint": "Recomendado: 1200Ã—630",
+      "image_ratio_hint": "Recomendado: 1200×630",
       "slug_required": "Por favor, insere um slug primeiro"
     },
     "sort": {
@@ -264,7 +264,7 @@
       "oldest": "Mais antigos primeiro",
       "az": "Slug A-Z",
       "za": "Slug Z-A",
-      "tip": "ExperiÃªncia: Apenas para links carregados"
+      "tip": "Experiência: Apenas para links carregados"
     },
     "update_failed": "Falha ao atualizar link",
     "create_failed": "Falha ao criar link",
@@ -276,7 +276,7 @@
       "description": "Aciona um backup manual de todos os links para o bucket R2 configurado",
       "button": "Iniciar backup",
       "backing_up": "A fazer backup...",
-      "success": "Backup concluÃ­do com sucesso",
+      "success": "Backup concluído com sucesso",
       "failed": "Falha no backup"
     },
     "export": {
@@ -284,30 +284,30 @@
       "description": "Descarrega todos os teus links como um ficheiro JSON",
       "button": "Exportar tudo",
       "total_links": "Total de links",
-      "success": "ExportaÃ§Ã£o bem-sucedida",
-      "failed": "Falha na exportaÃ§Ã£o"
+      "success": "Exportação bem-sucedida",
+      "failed": "Falha na exportação"
     },
     "import": {
       "title": "Importar links",
       "description": "Carrega um ficheiro JSON para importar links",
       "dropzone": "Arrasta o ficheiro JSON aqui ou clica para carregar",
       "links_found": "links encontrados",
-      "button": "Iniciar importaÃ§Ã£o",
+      "button": "Iniciar importação",
       "importing": "A importar...",
       "import_more": "Importar mais",
       "download_success": "Descarregar itens com sucesso",
       "download_skipped": "Descarregar itens ignorados",
       "download_failed": "Descarregar itens com falha",
       "result": {
-        "title": "Resultado da importaÃ§Ã£o",
+        "title": "Resultado da importação",
         "success": "Importado com sucesso",
-        "skipped": "Ignorado (jÃ¡ existe)",
+        "skipped": "Ignorado (já existe)",
         "failed": "Falhou",
         "success_message": "{count} links importados com sucesso"
       },
       "errors": {
-        "invalid_json": "Ficheiro JSON invÃ¡lido",
-        "invalid_format": "Formato de ficheiro invÃ¡lido. Por favor, utiliza um ficheiro exportado do PinoySeoul.",
+        "invalid_json": "Ficheiro JSON inválido",
+        "invalid_format": "Formato de ficheiro inválido. Por favor, utiliza um ficheiro exportado do OBRAA.",
         "no_links": "Nenhum link encontrado no ficheiro",
         "parse_error": "Falha ao analisar o ficheiro"
       }

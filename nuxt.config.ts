@@ -17,6 +17,8 @@ export default defineNuxtConfig({
   css: ['@/assets/css/tailwind.css'],
   colorMode: {
     classSuffix: '',
+    preference: 'system',
+    fallback: 'light',
   },
   runtimeConfig: {
     siteToken: process.env.NUXT_SITE_TOKEN || crypto.randomUUID(),

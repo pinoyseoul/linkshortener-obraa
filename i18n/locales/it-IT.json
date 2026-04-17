@@ -1,4 +1,4 @@
-Ôªø{
+{
   "common": {
     "i18n": "Multilingua",
     "abbreviations": "It",
@@ -23,11 +23,11 @@
     "title": "Accedi",
     "description": "Inserisci il token del sito per accedere",
     "tips": "Suggerimenti",
-    "preview_token": "Il token del sito per la modalit√† anteprima √®",
+    "preview_token": "Il token del sito per la modalit‡ anteprima Ë",
     "submit": "Accedi",
     "failed": "Accesso fallito, riprova",
     "token_label": "Token del Sito",
-    "token_required": "Il token √® obbligatorio"
+    "token_required": "Il token Ë obbligatorio"
   },
   "logout": {
     "title": "Disconnettersi?",
@@ -36,7 +36,7 @@
   },
   "layouts": {
     "footer": {
-      "copyright": "Prodotto da PinoySeoul",
+      "copyright": "Prodotto da OBRAA",
       "social": {
         "email": "Email",
         "telegram": "Telegram",
@@ -62,7 +62,7 @@
     "settings": "Impostazioni",
     "import": "Importa",
     "export": "Esporta",
-    "coffee": "Offrimi un caff√®",
+    "coffee": "Offrimi un caffË",
     "github": "GitHub","facebook":"Facebook",
     "stars": "Stelle",
     "update": "Nuova versione {version} disponibile (attuale: {current})"
@@ -72,8 +72,8 @@
       "github_repo": "Repository GitHub"
     },
     "features": {
-      "title": "Funzionalit√†",
-      "subtitle": "Funzionalit√† semplici e sufficienti",
+      "title": "Funzionalit‡",
+      "subtitle": "Funzionalit‡ semplici e sufficienti",
       "url_shortening": {
         "title": "Accorciamento URL",
         "description": "Comprimi i tuoi URL alla lunghezza minima"
@@ -135,14 +135,14 @@
       "follow": "Segui su X(Twitter)"
     },
     "stats": {
-      "title": "PinoySeoul in Numeri",
+      "title": "OBRAA in Numeri",
       "subtitle": "Affidabile per sviluppatori in tutto il mondo",
       "stars": "Stelle su GitHub",
       "forks": "Fork"
     },
     "testimonials": {
       "title": "Amato dagli Utenti",
-      "subtitle": "Scopri cosa dicono gli sviluppatori su PinoySeoul"
+      "subtitle": "Scopri cosa dicono gli sviluppatori su OBRAA"
     }
   },
   "dashboard": {
@@ -181,7 +181,7 @@
     "metrics": {
       "country": "Paese",
       "region": "Regione",
-      "city": "Citt√†",
+      "city": "Citt‡",
       "referer": "Referente",
       "slug": "Slug",
       "language": "Lingua",
@@ -207,12 +207,12 @@
     "create": "Crea Link",
     "edit": "Modifica Link",
     "delete_confirm_title": "Sei assolutamente sicuro?",
-    "delete_confirm_desc": "Questa azione non pu√≤ essere annullata. Il link verr√† eliminato definitivamente dai server.",
+    "delete_confirm_desc": "Questa azione non puÚ essere annullata. Il link verr‡ eliminato definitivamente dai server.",
     "delete_success": "Eliminazione riuscita!",
     "delete_failed": "Eliminazione fallita!",
     "update_success": "Link aggiornato con successo",
     "create_success": "Link creato con successo",
-    "preview_mode_tip": "Il link in modalit√† anteprima √® valido per un massimo di 5 minuti.",
+    "preview_mode_tip": "Il link in modalit‡ anteprima Ë valido per un massimo di 5 minuti.",
     "search_placeholder": "Cerca link...",
     "no_results": "Nessun link trovato.",
     "group_title": "Link",
@@ -252,16 +252,16 @@
       "advanced": "Avanzate",
       "more_options": "Altre Opzioni",
       "image_invalid_type": "Carica un file immagine valido",
-      "image_size_limit": "La dimensione dell'immagine non pu√≤ superare 5MB",
+      "image_size_limit": "La dimensione dell'immagine non puÚ superare 5MB",
       "image_upload_success": "Immagine caricata con successo",
       "image_upload_failed": "Caricamento immagine fallito",
       "image_upload_hint": "Clicca o trascina per caricare l'immagine",
-      "image_ratio_hint": "Consigliato: 1200√ó630",
+      "image_ratio_hint": "Consigliato: 1200◊630",
       "slug_required": "Inserisci prima uno slug"
     },
     "sort": {
-      "newest": "Pi√π Recenti",
-      "oldest": "Pi√π Vecchi",
+      "newest": "Pi˘ Recenti",
+      "oldest": "Pi˘ Vecchi",
       "az": "Slug A-Z",
       "za": "Slug Z-A",
       "tip": "Esperienza: Solo per i link caricati"
@@ -301,13 +301,13 @@
       "result": {
         "title": "Risultato Importazione",
         "success": "Importati con successo",
-        "skipped": "Saltati (gi√† esistenti)",
+        "skipped": "Saltati (gi‡ esistenti)",
         "failed": "Falliti",
         "success_message": "{count} link importati con successo"
       },
       "errors": {
         "invalid_json": "File JSON non valido",
-        "invalid_format": "Formato file non valido. Usa un file esportato da PinoySeoul.",
+        "invalid_format": "Formato file non valido. Usa un file esportato da OBRAA.",
         "no_links": "Nessun link trovato nel file",
         "parse_error": "Analisi del file fallita"
       }

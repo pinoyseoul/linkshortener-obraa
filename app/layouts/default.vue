@@ -37,7 +37,7 @@ const { title, twitter, facebook } = useAppConfig()
                   class="flex size-8 items-center justify-center rounded-full"
                 >
                   <img
-                    src="/sink.png"
+                    src="/obraa-logo.png"
                     :alt="`${title} Logo`"
                     class="size-full rounded-full"
                   >
@@ -131,7 +131,7 @@ const { title, twitter, facebook } = useAppConfig()
                   class="flex size-8 items-center justify-center rounded-full"
                 >
                   <img
-                    src="/sink.png"
+                    src="/obraa-logo.png"
                     :alt="`${title} Logo`"
                     class="size-full rounded-full"
                   >
@@ -142,14 +142,14 @@ const { title, twitter, facebook } = useAppConfig()
 
             <small class="block text-center text-sm text-muted-foreground">
               &copy; {{ new Date().getFullYear() }}
-              <a
-                href="https://www.obraa.org"
-                target="_blank"
-                title="PinoySeoul"
-                class="hover:text-primary"
-              >
-                PinoySeoul Media Enterprise
-              </a>
+                <a
+                  href="https://www.obraa.org"
+                  target="_blank"
+                  title="OBRAA"
+                  class="hover:text-primary"
+                >
+                  OBRAA.org
+                </a>
             </small>
           </div>
 

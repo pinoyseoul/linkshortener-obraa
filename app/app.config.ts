@@ -1,8 +1,8 @@
 export default defineAppConfig({
   title: 'a',
-  coffee: 'https://www.obraa.org/contact',
-  twitter: 'https://twitter.com/obraa',
-  facebook: 'https://facebook.com/obraa',
+  coffee: 'https://www.obraa.org/p/contact.html',
+  twitter: 'https://twitter.com/obraaorg',
+  facebook: 'https://facebook.com/obraaorg',
   description: 'Link shortener for OBRAA',
   image: 'https://a.obraa.org/banner.png',
   previewTTL: 300,
