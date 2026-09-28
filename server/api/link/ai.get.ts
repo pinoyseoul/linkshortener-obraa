@@ -18,7 +18,7 @@ defineRouteMeta({
 })
 
 interface AiChatResponse {
-  response?: string
+  response?: string | Record<string, unknown>
   choices?: { message?: { content?: string } }[]
 }
 
@@ -61,9 +61,12 @@ export default eventHandler(async (event) => {
 
   const response = await AI.run(aiModel as keyof AiModels, { messages }) as AiChatResponse
 
-  let content = response.response ?? response.choices?.[0]?.message?.content ?? ''
+  const raw = response.response ?? response.choices?.[0]?.message?.content ?? ''
+  console.info('ai raw response', { kind: typeof raw, raw })
+  let content = typeof raw === 'string' ? raw : JSON.stringify(raw)
   // Strip markdown code block wrapper (e.g. ```json\n{...}\n```)
-  // eslint-disable-next-line e18e/prefer-static-regex`n  const codeBlockMatch = content.match(/```\w*\n([^`]+)```/)
+  // eslint-disable-next-line e18e/prefer-static-regex
+  const codeBlockMatch = content.match(/```\w*\n([^`]+)```/)
   if (codeBlockMatch?.[1]) {
     content = codeBlockMatch[1].trim()
   }
