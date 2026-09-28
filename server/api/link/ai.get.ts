@@ -62,7 +62,7 @@ export default eventHandler(async (event) => {
   const response = await AI.run(aiModel as keyof AiModels, { messages }) as AiChatResponse
 
   const raw = response.response ?? response.choices?.[0]?.message?.content ?? ''
-  console.info('ai raw response', { kind: typeof raw, raw })
+  console.info('ai response shape', typeof raw)
   let content = typeof raw === 'string' ? raw : JSON.stringify(raw)
   // Strip markdown code block wrapper (e.g. ```json\n{...}\n```)
   // eslint-disable-next-line e18e/prefer-static-regex
